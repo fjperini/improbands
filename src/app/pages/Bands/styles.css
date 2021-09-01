@@ -1,0 +1,14 @@
+.filters {
+	.select {
+		width: 200px;
+		min-width: 200px;
+	}
+
+	.no-border {
+		border: 0 !important;
+		> div {
+			border-color: hsl(0, 0%, 80%) !important;
+			box-shadow: none !important;
+		}
+	}
+}

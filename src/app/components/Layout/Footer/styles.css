@@ -1,0 +1,15 @@
+.footer {
+	box-sizing: border-box;
+	width: 100%;
+	display: flex;
+	position: fixed;
+	justify-content: center;
+	align-items: baseline;
+	padding: 1em;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+	background-color: rgb(33, 37, 41);
+	color: #fff;
+}
